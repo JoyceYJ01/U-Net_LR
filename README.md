@@ -8,4 +8,8 @@ An alternative approach involves using stacks of 2D trans-axial multi-slice brig
 
 Here we present a machine learning method that generates high-resolution 3D aortic segmentations from routine 2D cardiac MR localizers. This approach could reduce the cost and time required for routine screening of aortic aneurysms in clinical care and potentially make it feasible for use in large-scale population studies.
 
-In this repository, you'll find the document that recorded the training details of our ML model, U-Net_LR and a few result examples.
+
+
+In this repository, you'll find the document that recorded the training details of our ML model, U-Net_LR and a few result examples.The details on the codes in this repository can be found in the paper:
+
+Jiang, Y., Punjabi, K., Pierce, I., Knight, D., Yao, T., Steeden, J., Hughes, A.D., Muthurangu, V. and Davies, R., 2025. A machine learning algorithm for creating isotropic 3D aortic segmentations from routine cardiac MR localizers. Magnetic Resonance Imaging, 115, p.110253. https://www.sciencedirect.com/science/article/pii/S0730725X24002340
